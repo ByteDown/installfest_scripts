@@ -256,6 +256,8 @@ export EDITOR="subl -w"
 alias undopush="git push -f origin HEAD^:master"
 # undo a commit
 alias undocommit="git reset --soft HEAD^"
+# Persist history across node sessions
+alias node="NODE_NO_READLINE=1 rlwrap node"
 # -----------------
 # For the prompt
 # -----------------

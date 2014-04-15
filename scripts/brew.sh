@@ -61,7 +61,10 @@ brew install ruby-build #........ provides an `rbenv install` command
 # brew install libxml2 #........... XML C parser and toolkit
 # brew install libxslt #........... a language for transforming XML documents into other XML documents.
 # brew install libiconv #.......... a conversion library between Unicode and traditional encoding
-# brew install ctags # ............  generates an index file of names found in source files of various programming languages.
+# brew install ctags #............. generates an index file of names found in source files of various programming languages.
+# brew install rlwrap #............ adds GNU readline library functionality to command lines that allow increased flexibility with keyboard input.
+# brew install tree #.............. list contents of directories in a tree-like format
+
 #  Tap a new formula repository from GitHub, or list existing taps.
 brew tap homebrew/versions
 # Ensures all tapped formula are symlinked into Library/Formula
