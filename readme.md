@@ -1,3 +1,5 @@
+**All credit goes to phlco, going forward I'll be amending a few things and adding customs to the script some of which will be taken from http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac**
+
 ## WDI InstallFest Script
 
 A work in progress to automate the set up of a student's development machine.
